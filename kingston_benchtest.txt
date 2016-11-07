@@ -1,0 +1,33 @@
+Use a freshly formatted SD for best performance.
+
+Type any character to start
+FreeStack: 58748
+Type is FAT32
+Card size: 15.49 GB (GB = 1E9 bytes)
+
+Manufacturer ID: 0X2
+OEM ID: TM
+Product: SA16G
+Version: 2.4
+Serial number: 0X69526926
+Manufacturing date: 5/2010
+
+File size 5 MB
+Buffer size 512 bytes
+Starting write test, please wait.
+
+write speed and latency
+speed,max,min,avg
+KB/Sec,usec,usec,usec
+221.24,141333,679,2312
+225.71,138296,1853,2267
+
+Starting read test, please wait.
+
+read speed and latency
+speed,max,min,avg
+KB/Sec,usec,usec,usec
+922.28,2240,506,554
+922.45,1088,506,554
+
+Done
