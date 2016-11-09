@@ -1,0 +1,19 @@
+FreeStack: 58748
+Type is FAT32
+Card size: 7.95 GB (GB = 1E9 bytes)
+
+Manufacturer ID: 0X3
+OEM ID: SD
+Product: SL08G
+Version: 8.0
+Serial number: 0X9969EE29
+Manufacturing date: 9/2015
+
+File size 5 MB
+Buffer size 512 bytes
+Starting write test, please wait.
+
+write speed and latency
+speed,max,min,avg
+KB/Sec,usec,usec,usec
+379.42,10681,608,1348
