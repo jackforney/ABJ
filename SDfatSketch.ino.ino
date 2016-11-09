@@ -4,6 +4,20 @@
  * 
  * Next steps: multiple analogs, improve sample rate, improve reliability
  * 
+ * Teensy 3.2 | SD Reader/Hardware |
+ *    Pin 0  -> GND Pin
+ *    Pin 5  -> Button
+ *    Pin 7  -> Red LED     
+ *    Pin 8  -> CS Pin
+ *    Pin 9  -> CD Pin
+ *    Pin 11 -> DI Pin
+ *    Pin 12 -> DO Pin
+ *    Pin 13 -> SCK Pin
+ *    Pin 18 -> Green LED
+ *    3.3V   -> VCC Pin
+ *    AGND   -> Analog Device
+ *    A0     -> Analog Device
+ * 
  * Jack Forney
  * ME195A Assistive Bionic Joint Project
  * 06Nov16
