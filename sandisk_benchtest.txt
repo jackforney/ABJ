@@ -17,3 +17,14 @@ write speed and latency
 speed,max,min,avg
 KB/Sec,usec,usec,usec
 379.42,10681,608,1348
+364.62,18179,1049,1403
+
+Starting read test, please wait.
+
+read speed and latency
+speed,max,min,avg
+KB/Sec,usec,usec,usec
+1240.92,1313,402,412
+1240.92,824,393,411
+
+Done
